@@ -1,4 +1,5 @@
 # codsoft_task2
+# Student Grade Calculator
 📘 Student Grade Calculator
 A simple java program that calculates the total marks, average percentage, and final grade of a student based on the marks entered for each subject.
 
